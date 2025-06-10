@@ -6,7 +6,7 @@ This is a responsive **Scientific Calculator** web application built using **HTM
 
 ![Scientific Calculator Preview](./340a75bc-a47e-47f0-b282-b9be56f23b4b.png)
 
-#Project Link:
+#Webpage Link:
 https://pujith66.github.io/beginner/
 
 ## 🔍 Features
